@@ -1,4 +1,4 @@
-# Health survey regieteration form Test Automation framework
+# Health survey registeration form Test Automation framework
  
 ## Description 
 This automation Project is implemented using following tools and technologies
